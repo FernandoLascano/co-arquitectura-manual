@@ -1,0 +1,16 @@
+# Reference files (not part of the website)
+*.pdf
+*.jpg
+*.png
+
+# Claude Code
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
